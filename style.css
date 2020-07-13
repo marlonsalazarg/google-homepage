@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(187, 153, 153);
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#nav ul{
+    float: right;
+}
+
+.wrap{
+    width: 400px;
+    margin: 0px auto;
+}
+
+#search{
+
+
+}
