@@ -98,7 +98,7 @@ input[type="reset"]:focus{
     border: none;
     background: transparent;
     margin-left: 40px;
-    margin-top: 5px;
+    margin-top: 3px;
 }
 
 #caja .icon{
